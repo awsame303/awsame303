@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awsame303
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, JavaScript, Java
-- 📫 No ways to reach me ;D
+- 👀 I’m interested in programming, soccer, and a bunch of other stuff
+- 🌱 I'm currently learning React and Node
+Primarily a Java developer
 - I don't really know many programming languages, and I am really new. I might need help in the future!!!
 
 <!---
